@@ -14,6 +14,8 @@ A curated list of useful online tools for downloading and converting videos.
 - Followeus – Online Video Downloader  
   https://followeus.com/
 
+- [Cyber Collector](https://t.me/cybercollectorbot) – Telegram bot for downloading videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required. Free.
+
 ## Features
 - MP4 and MP3 support
 - Fast processing
